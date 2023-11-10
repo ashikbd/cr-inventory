@@ -1,9 +1,9 @@
   <!-- Main Footer -->
   <footer class="main-footer">
-    <strong>Copyright &copy; <?php echo date("Y"); ?> Eve Salon</strong>
+    <strong>Copyright &copy; <?php echo date("Y"); ?> CR-Inventory</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
-      <b>Developed By</b> CodeRiver Applications
+      <b>Developed By</b> @sh!k
     </div>
   </footer>
 </div>
