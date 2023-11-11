@@ -21,7 +21,8 @@ class ClientFactory extends Factory
             'last_name' => $this->faker->lastName(),
             'email' => $this->faker->unique()->safeEmail(),
             'mobile' => $this->faker->phoneNumber(),
-            'birthday' => $this->faker->date()
+            'birthday' => $this->faker->date(),
+            'createdBy' => 1
         ];
     }
 }
