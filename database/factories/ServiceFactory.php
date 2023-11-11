@@ -18,7 +18,7 @@ class ServiceFactory extends Factory
     {
         return [
             'name' => $this->faker->name(),
-            'description' => $this->faker->sentences(),
+            'description' => $this->faker->sentence(6),
             'purchase_price' => $this->faker->numberBetween(500,5000)
         ];
     }

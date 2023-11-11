@@ -34,12 +34,7 @@ function sqldate($date, $seperator = "/", $format = "d/m/Y")
 }
 
 
-/**
- * Get d-m-Y formatted date from sql formatted date
- * @param string $d sql formatted date
- * @return string d-m-Y formatted date
- * @author Jamiul Hasan
- */
+
 function mydate($d, $seperator = "-")
 {
     if ($d == "0000-00-00") {
