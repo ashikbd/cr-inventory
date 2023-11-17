@@ -32,6 +32,10 @@ If you want to populate some fake/dummy data, we have following seeder classes:
 Run these seeders using artisan command. Eg. 
 ```php artisan db:seed --class=UserSeeder```
 
+## DEMO
+https://inventory.ashik-rahman.com
+user: admin@example.org
+password: password
 
 ## License
 
