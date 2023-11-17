@@ -34,7 +34,9 @@ Run these seeders using artisan command. Eg.
 
 ## DEMO
 https://inventory.ashik-rahman.com
+
 user: admin@example.org
+
 password: password
 
 ## License
